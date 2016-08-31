@@ -5,4 +5,4 @@ upload of inferential statistics project 1, 13 july 2016
 upload of inferential statistics project 2, 15 july 2016
 upload of inferential statistics project 3, 17 july 2016
 upload of linear regression mini project,   26 july 2016
-
+upload of logistic regression mini project folder, 31 august 2016
